@@ -1,5 +1,7 @@
 # gemini-codex
 
+**简体中文** | [English](README.en.md)
+
 一个用于 T3 Code 的 Antigravity 技能。Gemini 负责理解项目、讨论方案和汇报结果，方案评审、实施和独立验收分别交给你选定的模型。
 
 ## 安装
